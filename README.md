@@ -9,7 +9,7 @@ $config['api_password'] = '<wiserv password>';
 
 --------------------------------------------------------------
 
-# REST API for WiServ SOAP API ☺
+## REST API for WiServ SOAP API ☺
 
 url: http://server-url/messaging/sms
 
