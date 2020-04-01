@@ -1,13 +1,15 @@
 # messaging
 
-# config
+## config
 ## update the ff. config items in application/config/config.php
 
 $config['api_user'] = '<wiserv user>';
 	
 $config['api_password'] = '<wiserv password>';
-	
-REST API for WiServ SOAP API ☺
+
+--------------------------------------------------------------
+
+# REST API for WiServ SOAP API ☺
 
 url: http://<url>/messaging/sms
 
