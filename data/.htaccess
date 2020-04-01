@@ -1,0 +1,3 @@
+<Files "*.db">  
+  Require all denied
+</Files>

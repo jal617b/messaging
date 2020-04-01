@@ -1,0 +1,8 @@
+{
+    "require": {
+        "econea/nusoap": "^0.9.7",
+        "phpfastcache/phpfastcache": "^7.1",
+        "rybakit/msgpack": "^0.7.0",
+        "chriskacerguis/codeigniter-restserver": "^3.1"
+    }
+}
