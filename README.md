@@ -14,7 +14,7 @@ $config['api_password'] = '<wiserv password>';
 url: http://<url>/messaging/sms
 
 1. sending msg
-
+```
 method: post
 
 body 
@@ -31,7 +31,7 @@ body
     "success": true,
     "message": "Message Queued"
 }
- 
+```
 --------------------------------------------------
 
 2. retrieving msg
@@ -39,6 +39,7 @@ body
  body: none
  
  sample response:
+ ```
  {
     "CRGQueries": [
         {
@@ -56,3 +57,4 @@ body
     ],
     "Status": "3 Recent CRG Messages Found"
 }
+```
