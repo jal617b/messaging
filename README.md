@@ -1,9 +1,10 @@
 # messaging
 
 # config
-## update the ff. config items
-$config['api_url'] = 'https://wiserv.dswd.gov.ph/soap/?wsdl';
+## update the ff. config items in application/config/config.php
+
 $config['api_user'] = '<wiserv user>';
+	
 $config['api_password'] = '<wiserv password>';
 	
 REST API for WiServ SOAP API ☺
