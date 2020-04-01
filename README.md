@@ -11,7 +11,7 @@ $config['api_password'] = '<wiserv password>';
 
 # REST API for WiServ SOAP API ☺
 
-url: http://<url>/messaging/sms
+url: http://server-url/messaging/sms
 
 1. sending msg
 ```
