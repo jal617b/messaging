@@ -35,7 +35,9 @@ body
 --------------------------------------------------
 
 2. retrieving msg
+
  method : get
+ 
  body: none
  
  sample response:
