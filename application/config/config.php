@@ -525,5 +525,5 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 $config['api_url'] = 'https://wiserv.dswd.gov.ph/soap/?wsdl';
-$config['api_user'] = 'crgwiservuser';
-$config['api_password'] = '#w153rvcr9!';
+$config['api_user'] = '<wiserv user>';
+$config['api_password'] = '<wiserv password>';
